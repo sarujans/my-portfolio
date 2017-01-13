@@ -1,0 +1,13 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+.align-right {
+    text-align: right;
+}
+
+.align-center {
+    text-align: center;
+}
+img {
+    border: 3px solid black;
+}
